@@ -1,0 +1,24 @@
+{
+	"hotspots" : "3",
+	"props" : "3",
+	"hotspotList" : [
+      {
+        "name":"fountain_head",
+        "vertices":"14.310001, 6.2775, 14.220001, 5.6025004, 15.060001, 5.6025004, 15.120001, 6.255",
+        "action":"",
+        "linkto":"action"
+      },
+      {
+        "name":"door",
+        "vertices":"6.51, 6.0074997, 6.51, 4.6575003, 8.1, 4.6800003, 8.04, 5.94",
+        "action":"movement",
+        "linkto":"scene3"
+      },
+      {
+        "name":"back",
+        "vertices":"5.4600005, 1.3725, 5.5800004, 0.045000076, 13.920001, 0.09000015, 13.53, 1.4625003",
+        "action":"movement",
+        "linkto":"scene1"
+      }
+	]
+}

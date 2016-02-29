@@ -1,0 +1,12 @@
+{
+	"hotspots" : "1",
+	"props" : "3",
+	"hotspotList" : [
+		{
+		"name" : "petersdom",
+		"vertices" : "5.7000003, 4.635, 12.75, 4.6800003, 12.78, 9.2025, 5.52, 9.225",
+		"action":"movement",
+		"linkto" : "scene2"
+		}
+	]
+}
